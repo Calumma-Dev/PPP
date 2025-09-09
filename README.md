@@ -1,2 +1,2 @@
 # PPP
-Stroustrup's Programmaing: Principles and Practice Using C++
+Stroustrup's Programming: Principles and Practice Using C++
